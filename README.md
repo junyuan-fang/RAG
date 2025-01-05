@@ -1,0 +1,2 @@
+# RAG Implementation with LangChain and Ollama
+This repository demonstrates how to implement Retrieval-Augmented Generation (RAG) using LangChain and Ollama, alongside structured text extraction from images using OCR-free and OCR-based approaches. The project leverages Llama3 models for local inference.
